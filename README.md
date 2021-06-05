@@ -2,4 +2,4 @@
 
 # Goodreads Streamlit App
 
-Here lies my Streamlit Goodreads app! Check it out [here](http://www.tylerjrichards.com/book_reco.html)
+This Streamlit app was created for Chapter 10 of Getting Started with Streamlit for Data Science, check out the book on Amazon [here]() and check out my personal portfolio [here](http://www.tylerjrichards.com)
